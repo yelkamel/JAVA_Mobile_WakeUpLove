@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LastWakeUpLove</key>
+	<string>Wed Nov 28 04:00:00 CEST 2015</string>
+	<key>NbPingLove</key>
+	<string>30</string>
+	<key>NbWakeUpLove</key>
+	<string>10</string>
+	<key>Partenaire</key>
+	<string>12345780</string>
+	<key>TurnOff</key>
+	<string>false</string>
+</dict>
+</plist>

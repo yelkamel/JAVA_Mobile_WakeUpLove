@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gender</key>
+	<string>M</string>
+	<key>meetCity</key>
+	<string>paris</string>
+	<key>meetDate</key>
+	<string>2016-03-09 23:11:02 +0000</string>
+	<key>name</key>
+	<string>yoi</string>
+	<key>namePartenaire</key>
+	<string>yei</string>
+</dict>
+</plist>

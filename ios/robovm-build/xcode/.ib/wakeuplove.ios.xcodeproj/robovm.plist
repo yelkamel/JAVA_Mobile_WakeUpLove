@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>classToHeader</key>
+	<dict>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/AlarmDetail.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove/AlarmDetail.h</string>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/FirstLaunch/FirstLaunchOneController.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove.FirstLaunch/FirstLaunchOneController.h</string>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/FirstLaunch/FirstLaunchThreeController.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove.FirstLaunch/FirstLaunchThreeController.h</string>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/FirstLaunch/FirstLaunchTwoController.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove.FirstLaunch/FirstLaunchTwoController.h</string>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/SendAlarmController.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove/SendAlarmController.h</string>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/SettingController.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove/SettingController.h</string>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/SettingTableViewController.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove/SettingTableViewController.h</string>
+		<key>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/build/classes/main/com/youceferie/wakeuplove/WakeUpLoveMainController.class</key>
+		<string>/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/com.youceferie.wakeuplove/WakeUpLoveMainController.h</string>
+	</dict>
+	<key>implementationToBuild</key>
+	<dict>
+		<key>44E39D4B71E74CFDB964C9DB</key>
+		<string>25BCFD22E07042258F01A1F6</string>
+		<key>D2954C5BFF4140B59736912F</key>
+		<string>2FAE22DBC2524B2CB1C6A771</string>
+		<key>90A99F52B0734EF096B500C8</key>
+		<string>427837437CD34CE189E9B2A7</string>
+		<key>0EE24B67B3A44AF0A12B0C59</key>
+		<string>AEE2503C39CF4291AECF0A08</string>
+		<key>FA6ED55A8F204F2DBED7AB23</key>
+		<string>06669ED69AB840AFB8265A0B</string>
+		<key>C3217D8DF6404CC6B43B53C0</key>
+		<string>16BC60E73FCD4E2887DF50B0</string>
+		<key>EEB5421661DE49019D4B5361</key>
+		<string>F029A893DED84D8D9A283B33</string>
+		<key>4FE5187321544C7E9AACA362</key>
+		<string>DF7D6C3FF42249CA9108F10B</string>
+	</dict>
+</dict>
+</plist>

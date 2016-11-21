@@ -1,0 +1,353 @@
+{
+	"archiveVersion" = "1";
+	"classes" =
+		{
+		};
+	"objectVersion" = "46";
+	"objects" =
+		{
+			"100000000000000000000002" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("E19E773AEFCC48929D45C864", "DFF2C7128C934C45989F4C93", "AA462C716F6041FBA6494E29"
+);
+					"sourceTree" = "<group>";
+				};
+			"100000000000000000000006" =
+				{
+					"isa" = "PBXNativeTarget";
+					"buildPhases" =
+						("100000000000000000000007");
+					"buildRules" =
+						();
+					"dependencies" =
+						();
+					"name" = "test";
+					"productName" = "test";
+					"productType" = "com.apple.product-type.application";
+				};
+			"100000000000000000000001" =
+				{
+					"isa" = "PBXProject";
+					"attributes" =
+						{
+							"LastUpgradeCheck" = "0620";
+						};
+					"buildConfigurationList" = "100000000000000000000003";
+					"compatibilityVersion" = "Xcode 3.2";
+					"developmentRegion" = "English";
+					"hasScannedForEncodings" = "0";
+					"knownRegions" =
+						("en");
+					"mainGroup" = "100000000000000000000002";
+					"projectDirPath" = "";
+					"projectRoot" = "";
+					"targets" =
+						("100000000000000000000006");
+				};
+			"100000000000000000000007" =
+				{
+					"isa" = "PBXSourcesBuildPhase";
+					"buildActionMask" = "2147483647";
+					"files" =
+						("DF7D6C3FF42249CA9108F10B", "25BCFD22E07042258F01A1F6", "06669ED69AB840AFB8265A0B",
+ "16BC60E73FCD4E2887DF50B0", "427837437CD34CE189E9B2A7", "F029A893DED84D8D9A283B33",
+ "AEE2503C39CF4291AECF0A08", "2FAE22DBC2524B2CB1C6A771");
+					"runOnlyForDeploymentPostprocessing" = "0";
+				};
+			"100000000000000000000004" =
+				{
+					"isa" = "XCBuildConfiguration";
+					"buildSettings" =
+						{
+							"INFOPLIST_FILE" = "/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/Info.plist.xml";
+							"SDKROOT" = "iphoneos";
+							"TARGETED_DEVICE_FAMILY" = "1,2";
+							"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+							"GCC_PREFIX_HEADER" = "/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/Prefix.pch";
+						};
+					"name" = "Debug";
+				};
+			"100000000000000000000005" =
+				{
+					"isa" = "XCBuildConfiguration";
+					"buildSettings" =
+						{
+							"INFOPLIST_FILE" = "/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/Info.plist.xml";
+							"SDKROOT" = "iphoneos";
+							"TARGETED_DEVICE_FAMILY" = "1,2";
+							"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+							"GCC_PREFIX_HEADER" = "/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib/Prefix.pch";
+						};
+					"name" = "Release";
+				};
+			"100000000000000000000003" =
+				{
+					"isa" = "XCConfigurationList";
+					"buildConfigurations" =
+						("100000000000000000000004", "100000000000000000000005");
+					"defaultConfigurationIsVisible" = "0";
+					"defaultConfigurationName" = "Release";
+				};
+			"54A9B47B7C4642F79B2BD6A3" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Main.storyboard";
+					"lastKnownFileType" = "file.storyboard";
+					"sourceTree" = "<group>";
+					"path" = "Base.lproj/Main.storyboard";
+				};
+			"E19E773AEFCC48929D45C864" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("5F33661383B748C480C7C347", "A66013A47BD749639A3D88A1");
+					"name" = "Resources";
+					"sourceTree" = "<absolute>";
+					"path" = "/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/resources";
+				};
+			"36767E5376FF46ACA55F98B0" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Main.strings";
+					"lastKnownFileType" = "text.plist.strings";
+					"sourceTree" = "<group>";
+					"path" = "en.lproj/Main.strings";
+				};
+			"5F33661383B748C480C7C347" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Images.xcassets";
+					"lastKnownFileType" = "folder.assetcatalog";
+					"sourceTree" = "<group>";
+					"path" = "Images.xcassets";
+				};
+			"A66013A47BD749639A3D88A1" =
+				{
+					"isa" = "PBXVariantGroup";
+					"children" =
+						("54A9B47B7C4642F79B2BD6A3", "36767E5376FF46ACA55F98B0");
+					"name" = "Main.storyboard";
+					"sourceTree" = "<group>";
+				};
+			"DCDED5BB6BEF401D9AE87AB5" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "Info.plist";
+					"explicitFileType" = "text.plist.info";
+					"sourceTree" = "<group>";
+					"path" = "Info.plist.xml";
+				};
+			"AA462C716F6041FBA6494E29" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("DCDED5BB6BEF401D9AE87AB5");
+					"name" = "Supporting Files";
+					"sourceTree" = "<absolute>";
+					"path" = "/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios";
+				};
+			"93F7663062B844F781D1BC28" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "AlarmDetail.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "AlarmDetail.h";
+				};
+			"DFF2C7128C934C45989F4C93" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("9F7EA50B0AE940878A4382C3", "D4AEB92CF2A340D398DC083B");
+					"name" = "Sources";
+					"sourceTree" = "<absolute>";
+					"path" = "/Users/YouCef/RoboVMStudioProjects/WakeUpLove/ios/robovm-build/xcode/.ib";
+				};
+			"9F7EA50B0AE940878A4382C3" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("93F7663062B844F781D1BC28", "44E39D4B71E74CFDB964C9DB", "3D5CB00E47BC40A3AAF11C03",
+ "FA6ED55A8F204F2DBED7AB23", "078EBA26FE2C4E8B8F911E60", "C3217D8DF6404CC6B43B53C0",
+ "1E3CB1FF1F014EF7B1B84A18", "EEB5421661DE49019D4B5361", "FC8593504F7746038A9054D4",
+ "4FE5187321544C7E9AACA362");
+					"name" = "com.youceferie.wakeuplove";
+					"sourceTree" = "<group>";
+					"path" = "com.youceferie.wakeuplove";
+				};
+			"44E39D4B71E74CFDB964C9DB" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "AlarmDetail.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "AlarmDetail.m";
+				};
+			"25BCFD22E07042258F01A1F6" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "44E39D4B71E74CFDB964C9DB";
+				};
+			"E7E1C17E058243B7AC72904F" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "FirstLaunchOneController.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "FirstLaunchOneController.h";
+				};
+			"D4AEB92CF2A340D398DC083B" =
+				{
+					"isa" = "PBXGroup";
+					"children" =
+						("E7E1C17E058243B7AC72904F", "D2954C5BFF4140B59736912F", "B2426BD5CF6C4A2AA2E3EBF0",
+ "90A99F52B0734EF096B500C8", "A0E63F648A8F4EB685FA34F7", "0EE24B67B3A44AF0A12B0C59"
+);
+					"name" = "com.youceferie.wakeuplove.FirstLaunch";
+					"sourceTree" = "<group>";
+					"path" = "com.youceferie.wakeuplove.FirstLaunch";
+				};
+			"D2954C5BFF4140B59736912F" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "FirstLaunchOneController.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "FirstLaunchOneController.m";
+				};
+			"2FAE22DBC2524B2CB1C6A771" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "D2954C5BFF4140B59736912F";
+				};
+			"B2426BD5CF6C4A2AA2E3EBF0" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "FirstLaunchThreeController.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "FirstLaunchThreeController.h";
+				};
+			"90A99F52B0734EF096B500C8" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "FirstLaunchThreeController.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "FirstLaunchThreeController.m";
+				};
+			"427837437CD34CE189E9B2A7" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "90A99F52B0734EF096B500C8";
+				};
+			"A0E63F648A8F4EB685FA34F7" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "FirstLaunchTwoController.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "FirstLaunchTwoController.h";
+				};
+			"0EE24B67B3A44AF0A12B0C59" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "FirstLaunchTwoController.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "FirstLaunchTwoController.m";
+				};
+			"AEE2503C39CF4291AECF0A08" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "0EE24B67B3A44AF0A12B0C59";
+				};
+			"3D5CB00E47BC40A3AAF11C03" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "SendAlarmController.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "SendAlarmController.h";
+				};
+			"FA6ED55A8F204F2DBED7AB23" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "SendAlarmController.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "SendAlarmController.m";
+				};
+			"06669ED69AB840AFB8265A0B" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "FA6ED55A8F204F2DBED7AB23";
+				};
+			"078EBA26FE2C4E8B8F911E60" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "SettingController.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "SettingController.h";
+				};
+			"C3217D8DF6404CC6B43B53C0" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "SettingController.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "SettingController.m";
+				};
+			"16BC60E73FCD4E2887DF50B0" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "C3217D8DF6404CC6B43B53C0";
+				};
+			"1E3CB1FF1F014EF7B1B84A18" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "SettingTableViewController.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "SettingTableViewController.h";
+				};
+			"EEB5421661DE49019D4B5361" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "SettingTableViewController.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "SettingTableViewController.m";
+				};
+			"F029A893DED84D8D9A283B33" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "EEB5421661DE49019D4B5361";
+				};
+			"FC8593504F7746038A9054D4" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "WakeUpLoveMainController.h";
+					"lastKnownFileType" = "sourcecode.c.h";
+					"sourceTree" = "<group>";
+					"path" = "WakeUpLoveMainController.h";
+				};
+			"4FE5187321544C7E9AACA362" =
+				{
+					"isa" = "PBXFileReference";
+					"name" = "WakeUpLoveMainController.m";
+					"lastKnownFileType" = "sourcecode.c.objc";
+					"sourceTree" = "<group>";
+					"path" = "WakeUpLoveMainController.m";
+				};
+			"DF7D6C3FF42249CA9108F10B" =
+				{
+					"isa" = "PBXBuildFile";
+					"fileRef" = "4FE5187321544C7E9AACA362";
+				};
+		};
+	"rootObject" = "100000000000000000000001";
+}

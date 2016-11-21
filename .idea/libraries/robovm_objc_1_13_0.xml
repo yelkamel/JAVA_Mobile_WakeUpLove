@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="robovm-objc-1.13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/1.13.0/7003e2f3bb958bfb2839f80bbd7bf56499997545/robovm-objc-1.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/1.13.0/f568e2ec114b356a2833dbdb35eaf8985cf1ebc7/robovm-objc-1.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
